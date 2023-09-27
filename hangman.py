@@ -1,6 +1,12 @@
 import random
 from words import word_list
 
+##################################
+#mehmetalialtunkaynak
+#https://github.com/alialtunkaynak
+##################################
+
+
 
 def get_word():
     word = random.choice(word_list)
